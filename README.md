@@ -4,4 +4,4 @@ Seja bem - Vindo
 
 olá, tudo bem ?
 
-vdd
+verdade
